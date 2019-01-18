@@ -1,6 +1,6 @@
-# RTS Vis App
+# RTS Data Vis App
 
-ADMS Data Relay visualization tooling
+Real Time Streaming Data visualization tooling
 
 This repo contains the following sub-projects
 
